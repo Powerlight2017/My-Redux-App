@@ -1,6 +1,16 @@
 .App {
   text-align: center;
+  margin:15px;
 }
+
+.table-container {
+  display: flex;
+  justify-content: center;
+}
+
+
+button { margin:5px; display: inline-table; }
+
 
 .App-logo {
   height: 40vmin;
